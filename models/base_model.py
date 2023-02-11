@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/user/bin/python3
 """Module for Base class
 Contains the Base class for the AirBnB clone console.
 """
